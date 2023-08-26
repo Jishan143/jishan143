@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeeshan khan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 📫 How to reach me **jishan.m.khna.2002@gmailcom**
+- 📫 How to reach me **jishan.m.khan.2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
